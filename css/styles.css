@@ -33,7 +33,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.navilinks .link:hover, .navilinks .link:focus {
+.navilinks:hover, .navilinks:focus {
     color: #404bbf;
 }
 
