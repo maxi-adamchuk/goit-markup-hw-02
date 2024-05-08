@@ -1,0 +1,99 @@
+.logo {
+    text-transform: uppercase;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.web {
+    color: #4D5AE5;
+}
+.navilinks {
+text-decoration: none;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.contacts {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-decoration: none;
+color: black;
+}
+
+.banner {
+    background-color: #2E2F42;
+    text-align: center;
+    color: #ffffff;
+    width: 1440px;
+    height: 200px;
+    top: 72px;
+}
+
+.features {
+font-family: Roboto;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+}
+
+.featurecontent {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+.teamsection {
+    background-color: #F4F4FD;
+}
+.teamname, .teamprof {
+    text-align: center;
+}
+.teammate {
+background-color: #ffffff; 
+}
+.typetitle {
+font-family: Roboto;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+}
+.typeprof {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+}
+.footerstyles {
+    background-color: #2E2F42;
+}
+.studiofoo {
+    color: #ffffff;
+}
+.textfoot {
+    color: #ffffff;
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+ 
+}
