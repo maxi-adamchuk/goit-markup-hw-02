@@ -22,7 +22,7 @@ body {
 .studiohead {
     color: #2e2f42;
 }
-.navilinks, .navilink1 {
+.navilinks{
 text-decoration: none;
 font-family: "Roboto", sans-serif;
 font-size: 16px;
@@ -33,7 +33,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.navilink1 .link:hover, link:focus {
+.navilinks .link:hover, .navilinks .link:focus {
     color: #404bbf;
 }
 
@@ -54,7 +54,7 @@ font-style: normal;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.contacts .link:hover, link:focus {
+.contacts .link:hover, .contacts .link:focus {
     color: #404bbf;
 }
 
@@ -83,8 +83,8 @@ color: #434455;
     color: #ffffff;
     cursor: pointer;
 }
-.buttonblue .link:hover, link:focus {
-    color: #404bbf
+.buttonblue .link:hover, .buttonblue .link:focus {
+    background-color: #404BBF;
 }
 
 .features {
