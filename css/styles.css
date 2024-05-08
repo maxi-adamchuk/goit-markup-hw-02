@@ -54,7 +54,7 @@ font-style: normal;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.contacts .link:hover, .contacts .link:focus {
+.contacts:hover, .contacts:focus {
     color: #404bbf;
 }
 
