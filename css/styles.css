@@ -33,7 +33,17 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.navilinks:hover, .navilinks:focus {
+.navilink-first {
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    }
+.navilink-first:hover, .navilink-first:focus {
     color: #404bbf;
 }
 
@@ -83,7 +93,7 @@ color: #434455;
     color: #ffffff;
     cursor: pointer;
 }
-.buttonblue .link:hover, .buttonblue .link:focus {
+.buttonblue:hover, .buttonblue:focus {
     background-color: #404BBF;
 }
 
