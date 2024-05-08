@@ -1,3 +1,8 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
 .logo {
     text-transform: uppercase;
     font-family: Raleway;
@@ -6,10 +11,16 @@
     line-height: 21px;
     text-align: left;
     text-decoration: none;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
 }
 
 .web {
     color: #4D5AE5;
+}
+.studiohead {
+    color: #2e2f42;
 }
 .navilinks {
 text-decoration: none;
@@ -39,8 +50,6 @@ color: black;
     background-color: #2E2F42;
     text-align: center;
     color: #ffffff;
-    width: 1440px;
-    height: 200px;
     top: 72px;
 }
 
